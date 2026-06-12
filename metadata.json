@@ -1,0 +1,59 @@
+{
+  "siteId": "round-shoulder-hunchback-fix",
+  "generatedAt": "2026-06-05T14:27:05.308721",
+  "categories": [
+    "beginner-round-shoulder-hunchback-fix",
+    "advanced-round-shoulder-hunchback-fix",
+    "tips-round-shoulder-hunchback-fix",
+    "history-round-shoulder-hunchback-fix",
+    "trending-round-shoulder-hunchback-fix",
+    "tutorials-round-shoulder-hunchback-fix"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-round-shoulder-hunchback-fix",
+      "category_name": "Beginner Round Shoulder Hunchback Fix"
+    },
+    {
+      "category_slug": "advanced-round-shoulder-hunchback-fix",
+      "category_name": "Advanced Round Shoulder Hunchback Fix"
+    },
+    {
+      "category_slug": "tips-round-shoulder-hunchback-fix",
+      "category_name": "Round Shoulder Hunchback Fix Tips"
+    },
+    {
+      "category_slug": "history-round-shoulder-hunchback-fix",
+      "category_name": "Round Shoulder Hunchback Fix History"
+    },
+    {
+      "category_slug": "trending-round-shoulder-hunchback-fix",
+      "category_name": "Trending Round Shoulder Hunchback Fix"
+    },
+    {
+      "category_slug": "tutorials-round-shoulder-hunchback-fix",
+      "category_name": "Round Shoulder Hunchback Fix Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "round-shoulder-hunchback-fix",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar-right",
+    "site_title": "Round Shoulder Hunchback Fix Central",
+    "articles_per_row": 3
+  }
+}
